@@ -1,0 +1,92 @@
+.recipe {
+  max-width: 1200px;
+  margin: 40px auto;
+  text-align: center;
+  background: #fff;
+  padding: 40px;
+  box-sizing: border-box;
+  border-radius: 8px; /* Smooth edges for better aesthetics */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.recipe h2 {
+  font-size: 2em;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.recipe ul {
+  display: flex;
+  padding: 0;
+  justify-content: center;
+  margin-top: 0;
+}
+
+.recipe li {
+  list-style-type: none;
+  margin-right: 10px;
+  color: #555;
+  font-weight: bold; /* Enhance readability */
+}
+
+.recipe li::after {
+  content: ",";
+}
+
+.recipe li:last-child::after {
+  content: ".";
+}
+
+.method {
+  text-align: left;
+  line-height: 1.8em; /* Improved spacing for readability */
+  margin-top: 20px;
+  font-size: 1.1em;
+  color: #444;
+}
+
+/* Dark mode */
+.recipe.dark {
+  background: #2e2e2e; /* Dark background */
+  color: #e4e4e4;
+  border: 1px solid #444; /* Subtle border for contrast */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3); /* Adjust shadow for dark mode */
+}
+
+.recipe.dark h2 {
+  color: #f9f9f9; /* Bright text for headings */
+}
+
+.recipe.dark ul {
+  margin-top: 10px;
+}
+
+.recipe.dark li {
+  color: #cfcfcf; /* Softer color for dark mode */
+}
+
+.recipe.dark li::after {
+  color: #cfcfcf;
+}
+
+.recipe.dark li:last-child::after {
+  color: #cfcfcf;
+}
+
+.method.dark {
+  color: #ddd; /* Softer text for paragraphs in dark mode */
+}
+
+/* Additional styling for inputs, links, and buttons in dark mode */
+.recipe.dark a {
+  color: #71b9f4;
+  text-decoration: none;
+}
+
+.recipe.dark a:hover {
+  text-decoration: underline;
+}
+
+.recipe.dark p {
+  color: #d1d1d1;
+}

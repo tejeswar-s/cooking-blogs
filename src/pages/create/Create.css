@@ -1,0 +1,100 @@
+.create {
+  color: #555;
+  max-width: 480px;
+  margin: 60px auto;
+  transition: color 0.3s ease; /* Smooth transition for text color */
+}
+
+.create label span {
+  display: block;
+  margin: 30px 0 10px;
+}
+
+.create p {
+  margin-top: 10px;
+  font-size: 0.8em;
+}
+
+.create button {
+  display: flex; /* Use flexbox */
+  justify-content: center; /* Center content horizontally */
+  align-items: center; /* Center content vertically */
+  width: 120px; /* Fixed width to accommodate both "submit" and "submitting" */
+  font-size: 1em;
+  color: #fff;
+  padding: 10px;
+  border: 0;
+  border-radius: 4px;
+  background-color: #58249c;
+  cursor: pointer;
+  text-decoration: none;
+  margin: 20px auto;
+  overflow: hidden; /* Prevent text from overflowing */
+  white-space: nowrap; /* Prevent text wrapping */
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+/* Add hover effect for better UX */
+.create button:hover {
+  background-color: #7643c5;
+  transform: scale(1.05);
+}
+
+.ingredients {
+  display: flex;
+  align-items: center;
+}
+
+.ingredients button {
+  margin: 0 0 0 10px;
+}
+
+/* Dark mode styles */
+.create.dark {
+  color: #e4e4e4; /* Light text for dark mode */
+}
+
+.create.dark h2 {
+  color: #e4e4e4;
+}
+
+.create.dark button {
+  background-color: #444; /* Darker button background */
+  color: #fff; /* White text for contrast */
+}
+
+.create.dark button:hover {
+  background-color: #666; /* Slightly lighter hover effect for dark mode */
+}
+
+/* Responsive styles for buttons */
+@media (max-width: 768px) {
+  .create button {
+    width: 100%;
+    font-size: 1.1em;
+    padding: 12px;
+  }
+
+  .ingredients button {
+    margin: 0;
+    flex: 1;
+  }
+}
+
+@media (max-width: 480px) {
+  .create button {
+    width: 100%;
+    font-size: 1em;
+    padding: 14px;
+  }
+
+  .ingredients {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .ingredients button {
+    width: 100%;
+    margin: 10px 0 0 0;
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Masala Dosa",
+      "ingredients": [
+        "1 cup Rice",
+        "1/4 cup Urad dal",
+        "1/2 tsp Fenugreek seeds",
+        "1/4 tsp Turmeric powder",
+        "1 Potato",
+        "1 Onion",
+        "1 tsp Mustard seeds",
+        "2-3 Green chilies",
+        "Curry leaves",
+        "Salt to taste"
+      ],
+      "method": "1. Soak rice, urad dal, and fenugreek seeds for 4-5 hours. 2. Grind the soaked ingredients to a smooth batter and ferment overnight. 3. Make a tempering with mustard seeds, green chilies, curry leaves, and onion. 4. Mash the potato and mix it with the tempering. 5. Heat a tawa and pour the batter to make a thin dosa, add the potato filling, and fold. 6. Serve hot with coconut chutney and sambar.",
+      "cookingTime": "30 minutes"
+    },
+    {
+      "id": "2",
+      "title": "Sambar",
+      "ingredients": [
+        "1/2 cup Toor dal",
+        "1 Onion",
+        "1 Tomato",
+        "1 carrot",
+        "1/4 tsp Turmeric powder",
+        "1 tbsp Tamarind pulp",
+        "2 tsp Sambar powder",
+        "Mustard seeds",
+        "Curry leaves",
+        "Coriander leaves",
+        "Salt to taste"
+      ],
+      "method": "1. Cook toor dal and vegetables with turmeric until soft. 2. In a pan, heat oil, and add mustard seeds, curry leaves, and sambar powder. 3. Add the cooked dal and tamarind pulp, simmer for 10 minutes. 4. Garnish with coriander leaves and serve with rice or dosa.",
+      "cookingTime": "40 minutes"
+    },
+    {
+      "id": "3",
+      "title": "Chettinad Chicken Curry",
+      "ingredients": [
+        "500g Chicken",
+        "1 Onion",
+        "2 Tomatoes",
+        "2 tbsp Chettinad masala",
+        "1 tsp Ginger garlic paste",
+        "Curry leaves",
+        "Salt to taste",
+        "Oil"
+      ],
+      "method": "1. Heat oil in a pan, add curry leaves and onions, sauté until golden. 2. Add ginger garlic paste and sauté. 3. Add tomatoes and cook until soft. 4. Add chicken pieces and cook. 5. Add chettinad masala and salt, cook until chicken is tender. 6. Serve hot with rice or roti.",
+      "cookingTime": "45 minutes"
+    },
+    {
+      "id": "4",
+      "title": "Thayir Sadam (Curd Rice)",
+      "ingredients": [
+        "1 cup Rice",
+        "1/2 cup Curd (yogurt)",
+        "1/4 tsp Mustard seeds",
+        "Curry leaves",
+        "1 Green chili",
+        "Salt to taste"
+      ],
+      "method": "1. Cook rice and let it cool down. 2. Mix the cooled rice with curd and salt. 3. Heat oil in a pan, add mustard seeds, curry leaves, and green chili. 4. Pour the tempering over the curd rice and serve.",
+      "cookingTime": "15 minutes"
+    },
+    {
+      "id": "5",
+      "title": "Pongal",
+      "ingredients": [
+        "1 cup Rice",
+        "1/4 cup Moong dal",
+        "1/2 tsp Black pepper",
+        "1/4 tsp Cumin seeds",
+        "1 tbsp Ghee",
+        "Cashews",
+        "Curry leaves",
+        "Salt to taste"
+      ],
+      "method": "1. Roast moong dal and rice together for a few minutes. 2. Pressure cook rice and dal with water for 3-4 whistles. 3. Heat ghee in a pan, add cumin seeds, black pepper, cashews, and curry leaves. 4. Add the cooked rice-dal mixture to the pan and mix well. 5. Serve hot.",
+      "cookingTime": "30 minutes"
+    },
+    {
+      "id": "6",
+      "title": "Rava Kesari",
+      "ingredients": [
+        "1 cup Rava (semolina)",
+        "1/2 cup Sugar",
+        "1/4 cup Ghee",
+        "Cashews",
+        "Raisins",
+        "1/2 tsp Cardamom powder",
+        "Water"
+      ],
+      "method": "1. Heat ghee in a pan, roast cashews and raisins, and remove. 2. Add rava to the pan and roast until golden. 3. Add water and cook until the rava absorbs it. 4. Add sugar, cardamom powder, and ghee. 5. Mix well, garnish with cashews and raisins. Serve hot.",
+      "cookingTime": "25 minutes"
+    },
+    {
+      "id": "7",
+      "title": "Hyderabadi Biryani",
+      "ingredients": [
+        "1 cup Basmati rice",
+        "500g Chicken",
+        "1 Onion",
+        "2 Tomatoes",
+        "2 tbsp Biryani masala",
+        "1 tsp Ginger garlic paste",
+        "Mint leaves",
+        "Saffron",
+        "Yogurt",
+        "Salt to taste"
+      ],
+      "method": "1. Marinate chicken with biryani masala, ginger garlic paste, yogurt, and salt. 2. Fry onions in oil until golden brown, and add tomatoes and cook. 3. Add marinated chicken, mint leaves, and cook until tender. 4. Layer the rice and chicken, add saffron water, and cook until done. 5. Serve hot with raita.",
+      "cookingTime": "1 hour"
+    },
+    {
+      "id": "8",
+      "title": "Dosa Batter",
+      "ingredients": [
+        "2 cups Rice",
+        "1/2 cup Urad dal",
+        "1/2 tsp Fenugreek seeds",
+        "Water",
+        "Salt"
+      ],
+      "method": "1. Soak rice, urad dal, and fenugreek seeds for 4-5 hours. 2. Grind the mixture to a smooth batter. 3. Ferment the batter overnight. 4. Heat a tawa and make dosas with the batter. Serve with chutney and sambar.",
+      "cookingTime": "10 minutes"
+    },
+    {
+      "id": "9",
+      "title": "Kootu Curry",
+      "ingredients": [
+        "1 cup Toor dal",
+        "1/2 cup Yam",
+        "1/2 cup Pumpkin",
+        "1/2 cup Raw banana",
+        "1 tbsp Coconut paste",
+        "1 tsp Mustard seeds",
+        "Curry leaves",
+        "Cumin powder",
+        "Salt to taste"
+      ],
+      "method": "1. Cook toor dal and vegetables until soft. 2. In a pan, heat oil and add mustard seeds, curry leaves, and cumin powder. 3. Add the cooked dal and veggies, then coconut paste. 4. Simmer for 10 minutes. Serve hot with rice.",
+      "cookingTime": "35 minutes"
+    },
+    {
+      "id": "10",
+      "title": "Medu Vada",
+      "ingredients": [
+        "1 cup Urad dal",
+        "1/2 tsp Black pepper",
+        "1 Green chili",
+        "Curry leaves",
+        "Salt to taste",
+        "Oil for frying"
+      ],
+      "method": "1. Soak urad dal for 4 hours and grind to a thick batter. 2. Shape the batter into doughnuts and fry in hot oil until golden brown. 3. Serve hot with coconut chutney.",
+      "cookingTime": "30 minutes"
+    }
+  ]
+}
